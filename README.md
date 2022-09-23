@@ -1,4 +1,4 @@
-### DISCORD SERVER STEALER :
+### DISCORD SERVER CLONER :
 Discord server copy tool (copys all channels + design)
 
 
